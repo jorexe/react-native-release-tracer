@@ -22,10 +22,10 @@ $ node app {line} {column}
 ## Example output
 ```json
 { 
-  source: '/home/homefolder/projectname/app/lib/samplefile.js',
-  line: 49,
-  column: 15,
-  name: null 
+  "source": "/home/homefolder/projectname/app/lib/samplefile.js",
+  "line": 49,
+  "column": 15,
+  "name": null 
 }
 ```
 
